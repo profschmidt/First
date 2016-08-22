@@ -17,8 +17,8 @@ Oh, and vim knows MarkDown.  How nice.
 
 1. Something
 2. Something else
-	* Sub-something else
-	* Sub-something else else
+	1. Sub-something else
+	2. Sub-something else else
 
 ####  Links
 
@@ -34,7 +34,7 @@ Back to the images.  It'd be something like `![text](image URL)`
 
 The Moody Blues sang:
 
-> They tide rushes in,
+> The tide rushes in,
 > and washes my castles away.
 > Then I'm really not so sure,
 > which side of the bed I should lay.
